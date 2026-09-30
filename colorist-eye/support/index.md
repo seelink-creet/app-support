@@ -3,13 +3,16 @@ layout: default
 title: Colorist Eye 技术支持
 ---
 
+[简体中文](/colorist-eye/support/) · [English](/colorist-eye/support/en/) · [日本語](/colorist-eye/support/ja/)
+
 # Colorist Eye 技术支持
 
 Colorist Eye 是一款视觉训练应用，提供中性偏色判断、RGB 恢复和示波器判读练习。
 
 ## 联系我们
 
-开发者：刘博  
+开发者：LinkLiu
+
 支持邮箱：[seelink@sina.com](mailto:seelink@sina.com)
 
 如遇到问题或有功能建议，请发送邮件。为了帮助定位问题，建议注明：
@@ -30,7 +33,7 @@ Colorist Eye 是一款视觉训练应用，提供中性偏色判断、RGB 恢复
 
 ### 可以使用自己的照片吗？
 
-可以通过系统照片选择器选择图片，导入后用于练习。
+购买完整版后，可以通过系统照片选择器选择图片，导入后用于练习。
 
 ### 删除练习副本会删除相册原图吗？
 

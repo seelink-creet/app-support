@@ -3,11 +3,13 @@ layout: default
 title: Colorist Eye 隐私政策
 ---
 
+[简体中文](/colorist-eye/privacy/) · [English](/colorist-eye/privacy/en/) · [日本語](/colorist-eye/privacy/ja/)
+
 # Colorist Eye 隐私政策
 
-更新日期：2026 年 9 月 29 日
+更新日期：2026 年 9 月 30 日
 
-Colorist Eye 由刘博开发和提供。本政策说明使用本应用及联系技术支持时的信息处理方式。
+Colorist Eye 由 LinkLiu 开发和提供。本政策说明使用本应用及联系技术支持时的信息处理方式。
 
 ## 1. 应用内的数据处理
 
@@ -59,7 +61,7 @@ Colorist Eye 无需注册账号。目前不集成第三方广告、用户行为�
 
 ## 8. 联系方式
 
-开发者：刘博
+开发者：LinkLiu
 
 隐私与技术支持邮箱：
 [seelink@sina.com](mailto:seelink@sina.com)
